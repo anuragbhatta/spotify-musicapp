@@ -148,7 +148,7 @@ export class HomePage extends Component {
               className="col-sm-6 col-md-7"
               style={{ backgroundColor: "#191e3b", padding: "0px" }}
             >
-              <div className="col-12">
+              <div className="col-10">
                 <form>
                   <div
                     className="input-group mb-3 mt-3 ml-5 mr-5"

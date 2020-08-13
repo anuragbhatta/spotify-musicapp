@@ -1,7 +1,8 @@
 {
-  "name": "music-app",
+  "name": "spotify-musicapp",
   "version": "0.1.0",
   "private": true,
+  "author": "Anurag Bhatta",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@testing-library/jest-dom": "^4.2.4",
